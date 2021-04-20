@@ -36,6 +36,6 @@ module.exports = {
         icon: `src/assets/images/gatsby-icon.png`,
       },
     },
-    'gatsby-plugin-manifest',
+    'gatsby-plugin-offline',
   ],
 };
