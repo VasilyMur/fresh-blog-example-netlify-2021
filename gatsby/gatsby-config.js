@@ -36,6 +36,13 @@ module.exports = {
         icon: `src/assets/images/gatsby-icon.png`,
       },
     },
-    'gatsby-plugin-offline',
+    {
+      resolve: `gatsby-plugin-offline`,
+      options: {
+        workboxConfig: {
+          globPatterns: ['*.html'],
+        },
+      },
+    },
   ],
 };
