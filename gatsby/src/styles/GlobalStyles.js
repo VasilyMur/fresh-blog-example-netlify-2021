@@ -34,7 +34,7 @@ const GlobalStyles = createGlobalStyle`
     margin: 0 0 25px 0;
     line-height: 1.2;
     font-family: 'Balsamiq Sans', cursive;
-    font-weight: 700;
+    font-weight: 400;
     font-style: italic;
     @media (max-width: 800px) {
       font-size: 2.5rem;
@@ -48,7 +48,7 @@ const GlobalStyles = createGlobalStyle`
     text-align: left;
     line-height: 1.2;
     font-family: 'Balsamiq Sans', cursive;
-    font-weight: 700;
+    font-weight: 400;
     font-style: italic;
     @media (max-width: 800px) {
       font-size: 2rem;

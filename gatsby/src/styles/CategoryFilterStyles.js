@@ -14,7 +14,7 @@ const CategoryFilterStyles = styled.div`
     background: ${props => props.theme.lightgrey};
     color: ${props => props.theme.black};
     font-family: 'Balsamiq Sans', cursive;
-    font-weight: 700;
+    font-weight: 400;
     border-radius: 2px;
     text-decoration: none;
     font-size: 18px;

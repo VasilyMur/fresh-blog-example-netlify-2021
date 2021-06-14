@@ -29,7 +29,7 @@ const Wrapper = styled.div`
   h1 {
     font-size: 28px;
     font-family: 'Balsamiq Sans', cursive;
-    font-weight: 700;
+    font-weight: 400;
     margin: 0;
     display: flex;
     align-items: center;
